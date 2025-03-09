@@ -91,5 +91,5 @@ Contributions are welcome! Feel free to:
 This project is licensed under the **MIT License**. Feel free to modify and use it as needed.
 
 ## 📧 Contact
-For questions or suggestions, feel free to reach out to me on **[GitHub](https://github.com/your-username)** or via **email@example.com**.
+For questions or suggestions, feel free to reach out to me on **[GitHub](https://github.com/Krishnendu-Ghosh-Web)** or via **email@example.com**.
 
